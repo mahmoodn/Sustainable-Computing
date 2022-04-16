@@ -1,0 +1,8 @@
+exercise.1/mm_double
+exercise.1/mm_int
+exercise.1/mm_float
+exercise.1/mm_double_omp
+exercise.1/mm_double_blas.o
+exercise.1/mm_double_blas
+exercise.2/mm_double_omp
+
